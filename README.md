@@ -2,7 +2,7 @@
 
 * 🎈 OIer (🥈 NOI 2017, 🥉 ICPC EC-Final 2018)
 * 🎓 Computer Science undergraduate at [🏫 RUC](https://www.ruc.edu.cn/) (2018 - 2022)
-* 🐟 SDE Intern at [Microsoft](https://careers.microsoft.com/) STCA
+* 🐟 Just finished my internship at [Microsoft](https://careers.microsoft.com/) STCA
 * 🌱 Co-founder and main developer of [LibreOJ](https://loj.ac)
 * ❤️ Love Linux and open source software
 * 🔐 Interested in Cybersecurity
