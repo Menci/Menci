@@ -8,4 +8,5 @@
 * 🔐 Interested in Cybersecurity
 * 🎶 Play rhythm games
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Menci's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Menci's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Menci&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px" />
