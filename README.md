@@ -8,6 +8,8 @@
 
 [Homepage (zh)](https://men.ci) · [Blog (zh)](https://blog.men.ci) · [OI (zh)](https://oi.men.ci)
 
+![Skills](https://skillicons.dev/icons?i=azure,cloudflare,workers,github,c,cpp,cs,html,js,ts,css,sass,php,py,go,md,regex,bash,docker,git,mongodb,mysql,redis,linux,nginx,vim,vscode,express,electron,jquery,nodejs,nestjs,react,vue,wasm)
+
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Menci&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
 </a>
