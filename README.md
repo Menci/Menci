@@ -1,7 +1,7 @@
 # Hi 👋 Menci here.
 
 * 🎈 OIer (🥈 NOI 2017, 🥉 ICPC EC-Final 2018)
-* 🎓 Computer Science undergraduate at [🏫 RUC](https://www.ruc.edu.cn/) (2018 - 2022)
+* 🎓 Bachelor of Computer Science, graduated from [🏫 RUC](https://www.ruc.edu.cn/) (2018 - 2022)
 * 🌱 Co-founder and main developer of [LibreOJ](https://loj.ac)
 * 🌟 Contributor of our [OI Wiki](https://github.com/OI-wiki), maintaining the mirror site [oi.wiki](https://oi.wiki)
 * ❤️ Love Linux and open source software
